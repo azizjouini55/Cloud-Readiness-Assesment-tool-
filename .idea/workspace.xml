@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04f60ddb-8ad5-48a0-b98c-9843628a02a5" name="Changes" comment="form rendering UI">
+      <change afterPath="$PROJECT_DIR$/Models/History.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f1e45fe3-429f-44f2-8776-2b506384b4be.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/f1e45fe3-429f-44f2-8776-2b506384b4be.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/Routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Routes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/Save.php" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/Save.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/AssessmentModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/Models/AssessmentModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/step.php" beforeDir="false" afterPath="$PROJECT_DIR$/Views/step.php" afterDir="false" />
+    </list>
+    <list id="3d3c6ece-987e-4a76-85b8-f3cafb91af8f" name="Changes by a.rjili" comment="">
+      <change beforePath="$PROJECT_DIR$/Models/AssessmentModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/Models/AssessmentModel.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/Models/AssessmentModel.php">
+      <ranges>
+        <range start1="11" end1="12" start2="11" end2="12" changelist="04f60ddb-8ad5-48a0-b98c-9843628a02a5" />
+        <range start1="18" end1="19" start2="18" end2="19" changelist="04f60ddb-8ad5-48a0-b98c-9843628a02a5" />
+        <range start1="48" end1="52" start2="48" end2="54" changelist="3d3c6ece-987e-4a76-85b8-f3cafb91af8f" />
+        <range start1="53" end1="54" start2="55" end2="56" changelist="3d3c6ece-987e-4a76-85b8-f3cafb91af8f" />
+        <range start1="65" end1="67" start2="67" end2="70" changelist="3d3c6ece-987e-4a76-85b8-f3cafb91af8f" />
+        <range start1="70" end1="70" start2="73" end2="78" changelist="04f60ddb-8ad5-48a0-b98c-9843628a02a5" />
+        <range start1="72" end1="84" start2="80" end2="80" changelist="04f60ddb-8ad5-48a0-b98c-9843628a02a5" />
+        <range start1="85" end1="85" start2="81" end2="84" changelist="04f60ddb-8ad5-48a0-b98c-9843628a02a5" />
+        <range start1="86" end1="86" start2="85" end2="86" changelist="04f60ddb-8ad5-48a0-b98c-9843628a02a5" />
+        <range start1="88" end1="88" start2="88" end2="122" changelist="3d3c6ece-987e-4a76-85b8-f3cafb91af8f" />
+        <range start1="89" end1="90" start2="123" end2="123" changelist="04f60ddb-8ad5-48a0-b98c-9843628a02a5" />
+        <range start1="91" end1="98" start2="124" end2="128" changelist="04f60ddb-8ad5-48a0-b98c-9843628a02a5" />
+        <range start1="101" end1="101" start2="131" end2="132" changelist="04f60ddb-8ad5-48a0-b98c-9843628a02a5" />
+        <range start1="103" end1="103" start2="134" end2="136" changelist="3d3c6ece-987e-4a76-85b8-f3cafb91af8f" />
+      </ranges>
+    </file>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ByKGcPSAz4AyrEPt7lgErcvjcB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;16.16.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;16.11.48&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.nodejs&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mariadb&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\app\Libraries" />
+      <recent name="C:\xampp\app\Models" />
+      <recent name="C:\xampp\app\Views" />
+      <recent name="C:\xampp\app\Views\pages" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Database Script.cra_assessment.sql">
+    <configuration name="cra_assessment.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="f1e45fe3-429f-44f2-8776-2b506384b4be/schema/cra_archimaster/table/cra_assessment.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <configuration name="ApplicationModel.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/app/Models/ApplicationModel.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Decision.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/app/Controllers/Decision.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Database Script.cra_assessment.sql" />
+        <item itemvalue="JavaScript Debug.ApplicationModel.php" />
+        <item itemvalue="JavaScript Debug.Decision.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04f60ddb-8ad5-48a0-b98c-9843628a02a5" name="Changes" comment="" />
+      <created>1657872789877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657872789877</updated>
+      <workItem from="1657872791143" duration="25122000" />
+      <workItem from="1658143886605" duration="65395000" />
+      <workItem from="1659004039100" duration="2858000" />
+      <workItem from="1659341225262" duration="8851000" />
+      <workItem from="1659598733862" duration="43918000" />
+      <workItem from="1659943227656" duration="167810000" />
+      <workItem from="1660907150674" duration="46905000" />
+    </task>
+    <task id="LOCAL-00001" summary="addedd ui elements to display assessment">
+      <created>1660133856061</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660133856061</updated>
+    </task>
+    <task id="LOCAL-00002" summary="form rendering UI">
+      <created>1660143431322</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660143431322</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="addedd ui elements to display assessment" />
+    <MESSAGE value="form rendering UI" />
+    <option name="LAST_COMMIT_MESSAGE" value="form rendering UI" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
